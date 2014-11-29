@@ -1,0 +1,60 @@
+newmtl pillars3:Color_006
+illum 4
+Kd 0.34 0.34 0.34
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl pillars3:FrontColor
+illum 4
+Kd 0.89 0.88 0.87
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl pillars3:IMG_2676
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd IMG_2676.JPG
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl pillars3:IMG_2678
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd IMG_2677.JPG
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl pillars3:IMG_2680
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd IMG_2678.JPG
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl pillars3:_DarkGray_
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl pillars3:a
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd a.JPG
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
